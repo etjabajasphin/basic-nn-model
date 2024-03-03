@@ -121,7 +121,7 @@ ai_brain.predict(X_n1_1)
 
 ```
 ## Dataset Information
-
+```
 Input	Output
 1	15
 2	20
@@ -144,7 +144,7 @@ Input	Output
 19	105
 20	110
 
-
+```
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
