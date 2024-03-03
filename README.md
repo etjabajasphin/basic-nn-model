@@ -115,11 +115,13 @@ ai_brain.evaluate(X_test1,y_test)
 X_n1 = [[10]]
 X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
-
+X_n1 = [[30]]
+X_n1_1 = Scaler.transform(X_n1)
+ai_brain.predict(X_n1_1)
 
 ```
 ## Dataset Information
-```
+
 Input	Output
 1	15
 2	20
@@ -141,7 +143,7 @@ Input	Output
 18	100
 19	105
 20	110
-```
+
 
 ## OUTPUT
 
@@ -157,7 +159,8 @@ Input	Output
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![Screenshot (67)](https://github.com/rakshadharanika/basic-nn-model/assets/149348380/a5b948f7-8e9a-4118-a899-3531f1019581)
+
 
 ## RESULT
 
