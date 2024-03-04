@@ -9,8 +9,9 @@ To develop a neural network regression model for the given dataset.
 Explain the problem statement
 
 ## Neural Network Model
+![Screenshot (69)](https://github.com/rakshadharanika/basic-nn-model/assets/149348380/d4623612-9b2d-41a9-8287-82043adf3545)
 
-Include the neural network model diagram.
+
 
 ## DESIGN STEPS
 
@@ -118,7 +119,9 @@ ai_brain.predict(X_n1_1)
 X_n1 = [[30]]
 X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
-
+X_n1 = [[30]]
+X_n1_1 = Scaler.transform(X_n1)
+ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
 ```
