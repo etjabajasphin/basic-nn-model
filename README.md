@@ -6,7 +6,7 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+Explain the problem 
 
 ## Neural Network Model
 ![Screenshot (69)](https://github.com/rakshadharanika/basic-nn-model/assets/149348380/d4623612-9b2d-41a9-8287-82043adf3545)
