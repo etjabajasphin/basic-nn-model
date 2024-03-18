@@ -44,7 +44,7 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:V RAKSHA DHARANIKA
+### Name: RAKSHA DHARANIKA V
 ### Register Number:212223230167
 ```python
 
